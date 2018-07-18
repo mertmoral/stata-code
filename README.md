@@ -25,11 +25,6 @@ The Stata files (*dta or *do) on the master branch are the most recent ones. I w
 
 If you would like to make a contribution to any Stata file, please do not use the master branch. You can pull stuff from the develop branch, which includes already published versions and, if any, minor edits. 
 
-### **Other Repositories**
-!This part will be edited.
-
-- Stata Visual Library
-
 ### **Author**
 
 Mert Moral (mertmoral@gmail.com)
